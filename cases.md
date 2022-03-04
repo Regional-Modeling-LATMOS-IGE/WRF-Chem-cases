@@ -6,7 +6,7 @@
 
 ## Arctic bromine activation from surface and blowing snow
 
--> info in arctic_blowing_snow_case
+-> info in arctic_halogens
 
 
 
