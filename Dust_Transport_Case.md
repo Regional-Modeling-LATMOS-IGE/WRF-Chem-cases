@@ -5,5 +5,10 @@
     it is more computationally efficient and accurate to use a nesting ratio of 3 or 5
     We have tried 5 but did not work in our case
     
- i_parent_start 
- j_parent_start
+### i_parent_start & j_parent_start
+    Mountain regions : nest boundaries should not be at mountain edges to avoid instabilities
+
+## Physics
+
+### mp_physics                          = 10,  10,  10, or 2, 2, 2, 
+    both options 
