@@ -1,3 +1,5 @@
+# This set up is for high resolution modeling over mountains.
+
 ## Domain
 
 ### parent_grid_ratio = 1,3,3, 
@@ -38,3 +40,6 @@ vertical motion can be damped to prevent the model from becoming unstable with l
 a layer of increased diffusion or an implicit gravity-wave damping can be added near the model top to control reflection from the upper boundary.
 ### epssm = 0.1,0.3,0.6,
 time off-centering for vertical sound waves
+
+## &fdda
+Nudging Options
