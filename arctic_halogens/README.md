@@ -17,6 +17,7 @@ New halogen developments are integrated into the SAPRC-99 gas-phase chemistry sc
 3. Download ASR2 sea ice data from: https://rda.ucar.edu/datasets/ds631.1/
 5. Run update_seaice_depth_and_snow.m to update the WRF met_em files with sea ice and snow depth information.
 6. Follow the instructions in WRF-Chem-Preprocessors to run WRF-Chem preprocessors. NOTE: Use the mozbc_saprc99_mosaic_halogens.inp input file when running the mozbc preprocessor.
+7. Use namelist.input to run WRF-Chem.
 
 ## References:
 Modified WRF-Chem version:
