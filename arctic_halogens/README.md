@@ -1,5 +1,5 @@
 # WRF-Chem Arctic Halogen Case
-test
+
 ## Case study of implementing surface and blowing snow sources of Arctic bromine activation
 
 This is the case study of implementing and testing surface and blowing snow sources of Arctic bromine activation in WRF-Chem 4.1.1. This is described in more detail in Marelle et al. (2021b) - https://doi.org/10.1029/2020MS002391.
