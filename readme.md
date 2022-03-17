@@ -8,5 +8,6 @@
 
 -> info in arctic_halogens
 
+## Fast test case for Arctic bromine activation from surface and blowing snow
 
-
+-> info in arctic_halogens_test
